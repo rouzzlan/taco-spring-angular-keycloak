@@ -1,0 +1,9 @@
+[submodule "keycloak-19-setup"]
+	path = keycloak-19-setup
+	url = git@github.com:rouzzlan/keycloak-19-setup.git
+[submodule "todo-backend-app-e001"]
+	path = todo-backend-app-e001
+	url = git@github.com:rouzzlan/todo-backend-app-e001.git
+[submodule "todo-web-app-e001"]
+	path = todo-web-app-e001
+	url = git@github.com:rouzzlan/todo-web-app-e001.git
